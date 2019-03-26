@@ -17,7 +17,7 @@ import sklearn
 import matplotlib
 ```
 
-If that all runs without an error, you are ready for class. 
+If that all runs without an error, you are ready for class.
 
 ## Package installation
 The easiest way to get
@@ -35,3 +35,6 @@ This will install the required packages into your Miniconda distribution.
 Now in your terminal, run `jupyter notebook`. If this opens a page in your web
 browser, and if the installation of the packages didn't have any errors, you
 are ready for class.
+
+## Acknowledgements
+This material adapted from Lilyanne Zhang's tutorial [here](https://github.com/zhanglilyanne/data-science-crash-course/).
